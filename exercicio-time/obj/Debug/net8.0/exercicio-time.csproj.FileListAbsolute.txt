@@ -1,0 +1,14 @@
+/home/annas/Documentos/atividade-csharp/exercicio-time/bin/Debug/net8.0/exercicio-time
+/home/annas/Documentos/atividade-csharp/exercicio-time/bin/Debug/net8.0/exercicio-time.deps.json
+/home/annas/Documentos/atividade-csharp/exercicio-time/bin/Debug/net8.0/exercicio-time.runtimeconfig.json
+/home/annas/Documentos/atividade-csharp/exercicio-time/bin/Debug/net8.0/exercicio-time.dll
+/home/annas/Documentos/atividade-csharp/exercicio-time/bin/Debug/net8.0/exercicio-time.pdb
+/home/annas/Documentos/atividade-csharp/exercicio-time/obj/Debug/net8.0/exercicio-time.GeneratedMSBuildEditorConfig.editorconfig
+/home/annas/Documentos/atividade-csharp/exercicio-time/obj/Debug/net8.0/exercicio-time.AssemblyInfoInputs.cache
+/home/annas/Documentos/atividade-csharp/exercicio-time/obj/Debug/net8.0/exercicio-time.AssemblyInfo.cs
+/home/annas/Documentos/atividade-csharp/exercicio-time/obj/Debug/net8.0/exercicio-time.csproj.CoreCompileInputs.cache
+/home/annas/Documentos/atividade-csharp/exercicio-time/obj/Debug/net8.0/exercicio-time.dll
+/home/annas/Documentos/atividade-csharp/exercicio-time/obj/Debug/net8.0/refint/exercicio-time.dll
+/home/annas/Documentos/atividade-csharp/exercicio-time/obj/Debug/net8.0/exercicio-time.pdb
+/home/annas/Documentos/atividade-csharp/exercicio-time/obj/Debug/net8.0/exercicio-time.genruntimeconfig.cache
+/home/annas/Documentos/atividade-csharp/exercicio-time/obj/Debug/net8.0/ref/exercicio-time.dll
